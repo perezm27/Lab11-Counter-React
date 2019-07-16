@@ -1,6 +1,6 @@
 ## Lab 11 React
 
-## eatures
+## Features
 
 Number and name of feature: Counter
 
