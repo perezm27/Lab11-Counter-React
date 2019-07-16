@@ -1,6 +1,6 @@
 ## Lab 11 React
 
-##Features
+## eatures
 
 Number and name of feature: Counter
 
@@ -12,5 +12,5 @@ Finish time: 10:09 am
 
 Actual time needed to complete: 39 Mins
 
-##Collaborative awknoledgement
+## Collaborative awknoledgement
 Matt Stuhring
